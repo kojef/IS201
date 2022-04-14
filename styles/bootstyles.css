@@ -1,0 +1,81 @@
+body{
+    background-color:rgba(199, 86, 12, 0.773);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common{
+    background-color: beige;
+    border: solid 2px white;
+    position: absolute;
+}
+.header{
+    top: 5px;
+    left: 10%;
+    right: 10%;
+    height: 65px;
+    padding-left:5px;
+    padding-top:35px;
+    text-align: center;
+}
+
+.mainbody{
+    top: 16%;
+    left: 10%;
+    right: 10%;
+    background: rgb(10, 102, 30);
+}
+
+.footer{
+    bottom: 0px;
+    height: 50px;
+    left: -1px;
+    right: -1px;
+    position: relative;
+    padding-top:5px;
+    margin-right:-2px;
+}
+
+.heading{
+    color:rgba(199, 86, 12, 0.773);
+    font-size: x-large;
+    float: right;
+}
+.center{
+    text-align: center;
+}
+
+
+a {
+    color:#FF0000;
+}      
+a:visited {
+    color:#d23307d6;
+} 
+a:hover {
+    color:#0fcf9594;
+}   
+a:active {
+    color:#d23307d6;
+}      
+
+.container{
+    background:rgba(9, 93, 121, 0.697);
+    border-style:solid 3px;
+    border-right: 10%;
+    border-left: 10%;
+    border-color: White;
+    color: white;
+    text-align: left;
+    Padding-left: 5px;
+    padding-top:1px;
+    padding-bottom:1px;
+    padding-right: 5px;
+    text-align:justify;
+}
+h1{
+    color:white;
+}
+
+body{
+    background-image: url('../images/orange\ background.jpeg');
+ }

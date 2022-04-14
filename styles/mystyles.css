@@ -1,0 +1,49 @@
+iframe.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.alink{
+    color:blue;
+}
+div{
+    color:rgba(6, 32, 107, 0.8);
+}
+
+h1{
+    font-size:x-large;
+    color:rgb(225, 163, 130);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.left{
+    text-align:left;
+    Margin-left: 10%;
+}
+h3{
+    color:rgba(191, 127, 93, 0.664);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.Resumelistheading{
+    color:rgba(8, 54, 126, 0.833);
+    font-weight:bold;
+}
+.resumelist{
+    color:rgba(16, 82, 180, 0.896);
+    font-weight:normal;
+}
+.anchors{
+    color:white;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: small;
+}
+h2{
+    color:rgba(10, 27, 111, 0.848);
+}
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
